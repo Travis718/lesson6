@@ -1,5 +1,7 @@
 package ru.geekbrains.lesson6;
 
+import java.util.Arrays;
+
 public class Main
 {
 
@@ -15,6 +17,6 @@ public class Main
         dog.swim(10);
         dog.jump(10);
 
-
+        System.out.println("До новых встреч!");
     }
 }
